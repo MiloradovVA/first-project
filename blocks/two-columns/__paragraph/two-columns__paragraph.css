@@ -1,0 +1,17 @@
+.two-columns__paragraph {
+    width: 80%;
+    min-width: 784px;
+    font-size: 24px;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+.two-columns__paragraph:nth-child(1) {
+    margin-bottom: 30px;
+}
+
+.two-columns__paragraph:nth-child(2) {
+    margin-bottom: 30px;
+}

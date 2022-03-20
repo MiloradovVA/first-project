@@ -1,0 +1,16 @@
+.cards__item {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    width: 240px;
+    margin-top: 60px;
+    margin-bottom: 0;
+    margin-right: 100px;
+    margin-left: 0;
+}
+
+.cards__item:nth-child(3) {
+    margin-right: 0;
+    margin-left: 0;
+}
+

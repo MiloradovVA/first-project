@@ -1,0 +1,9 @@
+.video__iframe:nth-child(1) {
+    margin:0 20px 0 0;
+    padding: 0;
+}
+
+.video__iframe:nth-child(2) {
+    margin:0;
+    padding: 0;
+}
